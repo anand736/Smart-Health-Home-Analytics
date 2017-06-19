@@ -1,0 +1,2 @@
+# Student's water drinking behavior during on campus job
+The objective of the project to analyze the drinking behaviour of students using wearable device 'Empatica' during on campus jobs (facilities/desk job).The project involved real-time data collection, feature selection,feature extraction to determine the impact of dehydration on physiological signals like Heart-rate, Electrodermal Activity( EDA).
